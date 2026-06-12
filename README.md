@@ -4,4 +4,4 @@ The IRRI method was based on the paper “FewRel: A Large-Scale Supervised Few-S
 
 The DOI of the orginal paper is:  https://doi.org/10.18653/v1/D18-1514
 
-The DOI of the orginal code and data: https://github.com/thunlp/FewRel
+The link of orginal code and data: https://github.com/thunlp/FewRel
