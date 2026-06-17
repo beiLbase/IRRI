@@ -1,4 +1,16 @@
 
+<p style="font-family: Microsoft YaHei, sans-serif; font-size: 28px; font-weight: bold;">
+项目介绍（大号加粗字体）
+</p>
+
+<span style="font-size: 16px; font-weight: normal;">
+这里是普通正文文字，用于描述项目用途、安装步骤、使用方法，字体更小且无加粗，和上方标题形成明显层级区分。
+</span>
+
+## 功能列表
+- <span style="font-size: 20px; font-weight: bold;">快速部署</span>：<span style="font-size:15px;font-weight:normal;">一行命令完成环境配置，无需复杂依赖安装</span>
+- <span style="font-size: 20px; font-weight: bold;">跨平台兼容</span>：<span style="font-size:15px;font-weight:normal;">Windows / MacOS / Linux 全系统适配</span>
+
 <p align="left" style="font-family: SimHei; font-size: 30px; color: #238636; font-weight: 700;">
 Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Relevance and Relation Information (IRRI)
 </p>
