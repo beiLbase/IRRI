@@ -3,7 +3,7 @@
 Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Relevance and Relation Information (IRRI)
 </p>
 
-<span style="font-size:30px;font-family:Microsoft YaHei;font-weight:bold;">Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Relevance and Relation Information (IRRI)</span>
+
 
 
 Task
