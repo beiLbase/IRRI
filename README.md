@@ -4,6 +4,7 @@ Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Rel
 Task
 
 designing a query-aware prototypical network learning
+
 integrating query-aware prototypical network with relational information
 
 
