@@ -1,9 +1,9 @@
 
-<p align="center" style="font-family: SimHei; font-size: 30px; color: #238636; font-weight: 700;">
+<p align="left" style="font-family: SimHei; font-size: 30px; color: #238636; font-weight: 700;">
 Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Relevance and Relation Information (IRRI)
 </p>
 
-
+<span style="font-size:30px;font-family:Microsoft YaHei;font-weight:bold;">Few-Shot Relation Extraction Fused with Prototypical Network Fusing Instance Relevance and Relation Information (IRRI)</span>
 
 
 Task
