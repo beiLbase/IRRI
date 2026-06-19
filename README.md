@@ -20,7 +20,7 @@ DOI: https://doi.org/10.18653/v1/D18-1514
 The dataset: https://github.com/thunlp/FewRel
 
 <br>
-A Simple yet Effective Relation Information Guided Approach for Few-Shot Relation Extraction[C]//Proceedings of the Findings of the Association for Computational Linguistics: ACL 2022, ACL (Findings) 2022: 757-763. 
+A Simple yet Effective Relation Information Guided Approach for Few-Shot Relation Extraction<br>
 
 by Yang Liu, Jinpeng Hu, Xiang Wan, Tsung-Hui Chang. ACL 2022
 
